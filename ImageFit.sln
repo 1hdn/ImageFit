@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2047
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageFit", "ImageFit\ImageFit.csproj", "{757A111D-2C0A-4565-8C79-80EDDBF29637}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageFit.Tests", "ImageFit.Tests\ImageFit.Tests.csproj", "{B0215163-16B4-4E64-914E-28607E772907}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{757A111D-2C0A-4565-8C79-80EDDBF29637}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{757A111D-2C0A-4565-8C79-80EDDBF29637}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{757A111D-2C0A-4565-8C79-80EDDBF29637}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{757A111D-2C0A-4565-8C79-80EDDBF29637}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0215163-16B4-4E64-914E-28607E772907}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0215163-16B4-4E64-914E-28607E772907}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0215163-16B4-4E64-914E-28607E772907}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0215163-16B4-4E64-914E-28607E772907}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7F02C43-8287-43D8-A02C-86C5770003BC}
+	EndGlobalSection
+EndGlobal
