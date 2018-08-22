@@ -3,6 +3,13 @@
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
     <GeneratePackageOnBuild>false</GeneratePackageOnBuild>
+    <RepositoryUrl>https://github.com/1hdn/ImageFit</RepositoryUrl>
+    <Authors>Henrik Nielsen</Authors>
+    <Company />
+    <PackageTags>image resize scale crop stretch object-fit</PackageTags>
+    <Description>A simple set of utility methods for scaling, cropping or stretching an image to make it fit certain dimensions.</Description>
+    <PackageProjectUrl>https://github.com/1hdn/ImageFit</PackageProjectUrl>
+    <Version>1.0.1</Version>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
