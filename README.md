@@ -6,7 +6,7 @@ The goal of this project is to provide a simple and easy way to do common image 
 
 ImageFit is available as a [NuGet package](https://www.nuget.org/packages/ImageFit/) for .NET Standard 2.0.
 
-## Usage
+## Examples
 In the following examples `sourcePath` is the filepath to an image with a width of 1000 pixels and a height of 1000 pixels.
 
 #### Image.Cover
