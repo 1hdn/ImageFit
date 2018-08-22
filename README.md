@@ -1,5 +1,8 @@
 # ImageFit
-ImageFit is a simple set of utility methods for scaling, cropping or stretching an image to make it fit certain dimensions. It's like a .NET equivalent to the CSS [object-fit](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit) property.
+ImageFit is a simple set of utility methods for scaling, cropping or stretching an image to make it fit certain dimensions. 
+It's like a .NET equivalent to the CSS [object-fit](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit) property.
+
+Available as a [NuGet package](https://www.nuget.org/packages/ImageFit/) for .NET Standard 2.0.
 
 ## Usage
 In the following examples `sourcePath` is the filepath to an image with a width of 1000 pixels and a height of 1000 pixels.
